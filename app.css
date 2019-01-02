@@ -9,7 +9,7 @@ body {
 }
 
 .fixed-background {
-  background-image: url('b.jpg');
+  background-image: url('https://raw.githubusercontent.com/kotaro44/farm-at-home-css/master/b.jpg');
   background-size: cover;
   bottom: 0;
   left: 0;
